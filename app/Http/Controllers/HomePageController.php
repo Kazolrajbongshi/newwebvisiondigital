@@ -15,7 +15,6 @@ class HomePageController extends Controller
     {
         return view('home_page.home');
         
-        
     }
 
     /**
